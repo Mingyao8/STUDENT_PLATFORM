@@ -1,6 +1,6 @@
 package AB;
 
-public class AA {
+public class start {
 
 	public static void main(String[] args) {
 		Function fun = new Function();
